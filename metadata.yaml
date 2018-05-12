@@ -1,4 +1,8 @@
 _repo: Workhouse-Nursing-The-story-of-a-successful-experiment_50432
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50432-h/images/cover.jpg
 creator:
   author:
     agent_name: Nightingale, Florence
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4370
     wikipedia: http://en.wikipedia.org/wiki/Florence_Nightingale
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50432#Workhouse-Nursing-The-story-of-a-successful-experiment
 gutenberg_issued: '2015-11-11'
 gutenberg_type: Text
 identifiers:
